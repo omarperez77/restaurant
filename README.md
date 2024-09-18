@@ -1,4 +1,4 @@
-### Proyecto para Restaurante
+# Proyecto para Restaurante
 
 ## Qué hace el proyecto.
 Por qué el proyecto es útil.
